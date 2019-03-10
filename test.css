@@ -1,0 +1,8 @@
+.tex p{
+	font-size: 14pt;
+	font-family: Times New Roman;
+}
+.sel {
+	height: 100px;
+	width: 200px;
+}

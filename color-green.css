@@ -1,0 +1,329 @@
+
+
+/* ===================================
+	ORANGE COLORS
+====================================== */
+
+/* ===================================
+	BACKGROUND COLOR
+====================================== */
+.background-three {
+	background-color: black;
+}
+
+/* ===================================
+	HIGHLIGHT
+====================================== */
+span.clean-color-contras{
+	color: #ffea00;
+	text-shadow: purple 1px 1px 0, purple -1px -1px 0, 
+                 purple -1px 1px 0, purple 1px -1px 0;
+}
+
+/* ===================================
+	SOLID BUTTON
+====================================== */
+.clean-button-solid{
+	background-color: #ffea00;
+}
+
+.clean-button-solid:hover{
+	opacity: 0.7;
+}
+
+/* ===================================
+	OUTLINE BUTTON
+====================================== */
+.clean-button-outline-light:hover{
+	background-color: #ffea00
+}
+
+/* ===================================
+	DARK BUTTON
+====================================== */
+.clean-button-outline-dark:hover{
+	background-color: #ffea00;
+}
+
+/* ===================================
+	ROUND BTN
+====================================== */
+.clean-btn-round{
+	background-color: #ffea00;
+}
+
+.clean-btn-round:hover{
+	opacity: 0.7;
+}
+
+/* ===================================
+	ICON
+====================================== */
+.clean-blurb-icon-only i{
+	color: #ffea00;
+}
+
+.clean-blurb-icon-only h3{
+	color: white;
+	font-family: Times New Roman;
+	font-size: 24px;
+	font-weight: bold;
+	text-shadow: 
+		-0   -4px 0   #000000,
+		 0   -4px 0   #000000,
+		-0    4px 0   #000000,
+		 0    4px 0   #000000,
+		-4px -0   0   #000000,
+		 4px -0   0   #000000,
+		-4px  0   0   #000000,
+		 4px  0   0   #000000,
+		-1px -4px 0   #000000,
+		 1px -4px 0   #000000,
+		-1px  4px 0   #000000,
+		 1px  4px 0   #000000,
+		-4px -1px 0   #000000,
+		 4px -1px 0   #000000,
+		-4px  1px 0   #000000,
+		 4px  1px 0   #000000,
+		-2px -4px 0   #000000,
+		 2px -4px 0   #000000,
+		-2px  4px 0   #000000,
+		 2px  4px 0   #000000,
+		-4px -2px 0   #000000,
+		 4px -2px 0   #000000,
+		-4px  2px 0   #000000,
+		 4px  2px 0   #000000,
+		-3px -4px 0   #000000,
+		 3px -4px 0   #000000,
+		-3px  4px 0   #000000,
+		 3px  4px 0   #000000,
+		-4px -3px 0   #000000,
+		 4px -3px 0   #000000,
+		-4px  3px 0   #000000,
+		 4px  3px 0   #000000,
+		-4px -4px 0   #000000,
+		 4px -4px 0   #000000,
+		-4px  4px 0   #000000,
+		 4px  4px 0   #000000,
+		-4px -4px 0   #000000,
+		 4px -4px 0   #000000,
+		-4px  4px 0   #000000,
+		 4px  4px 0   #000000;
+}
+
+/* ===================================
+	ROUND ICON
+====================================== */
+.clean-blurb-round-icon:hover .clean-icon{
+	background-color: #ffea00;
+}
+
+.clean-icones .clean-icon i {
+	color: #dadada;
+}
+
+.clean-blurb-round-icon:hover h3{
+	color: #ffea00;
+}
+
+/* ===================================
+	ICON SQUARE
+====================================== */
+.clean-icones:hover .clean-blurb-text h3{
+	color: #ffea00;
+}
+
+.clean-icones:hover .clean-blurb-text h3:after{
+	background-color: #ffea00;
+}
+
+.clean-icones .clean-blurb-text h3:after {
+	background-color: #ffea00;
+}
+
+.clean-icones .clean-icon:hover {
+	background-color: #ffea00;
+	border: none;
+	color: #fff;
+}
+
+.clean-icones .clean-icon:hover i{
+	background-color: #ffea00;
+	border: none;
+	color: #fff;
+}
+
+.clean-main-menu .navbar-nav li a:hover,
+.clean-main-menu .navbar-nav li.active a{
+    color: #ffea00;
+}
+
+.clean-slider .sp-selected-button {
+  	background-color: #ffea00;
+}
+
+.clean-member-details h3{
+	color: #ffea00;
+}
+
+.clean-line{
+	background-color: #ffea00;
+}
+
+.clean-counter-item h3:after {
+	background-color: #fff;
+}
+
+/* ===================================
+	FEATURED WORK
+====================================== */
+.clean-port-work-details .clean-port-work-desc p a:hover{
+	color: #ffea00;
+}
+
+.clean-port-work-details .clean-port-work-desc h3{
+	color: #ffea00;
+}
+
+.clean-recommended-pricing{
+	border: 6px solid #ffea00;
+}
+
+.recommended-titles {
+	background-color: #ffea00;
+}
+
+.clean-icones{
+	overflow: hidden;
+	padding: 20px;
+	border-bottom: 1px dotted #ffea00;
+}
+
+.clean-icones-center{
+	border-left: 1px dotted #ffea00;
+	border-right: 1px dotted #ffea00;
+}
+.clean-portfolio-work-item .clean-work-meta li{
+	background-color: #ffea00;
+}
+/* ===================================
+	PORTFOLIO
+====================================== */
+.clean-portfolio-filter-btn-group ul li a.selected{
+	color: #ffea00;
+}
+
+.clean-portfolio-filter-btn-group ul li a {
+	border-right: 1px dotted #ffea00;
+}
+
+/* ===================================
+	PRICING
+====================================== */
+.clean-pricing-plans .clean-pricing-titles h2{
+	color: #ffea00
+}
+
+.clean-pricing-plans {
+	border: 5px solid  #ffea00;
+}
+
+.clean-pricing-plans .clean-pricing-titles p span{
+	color: #ffea00;
+}
+
+/* ===================================
+	SIGN UP 
+====================================== */
+.clean-pricing-plans a.clean-signup-btn{
+	background-color: #ffea00;
+}
+
+.clean-pricing-plans a.clean-signup-btn:hover{
+	opacity: 0.7;
+}
+
+/* ===================================
+	CONTACT
+====================================== */
+.clean-contact-section .clean-contact-address ul li {
+	background-color: #ffea00;
+}
+
+.clean-contact-section .clean-contact-form input[type='submit']{
+	background-color: #ffea00;
+}
+
+.clean-contact-section .clean-contact-form input[type='submit']:hover{
+	color: #dadada !important;
+	border: 2px solid #ffea00 !important;
+	background-color: #fff !important;
+}
+
+.clean-find-us-btn h3{
+	color: #ffea00;
+}
+
+.clean-portfolio-information .clean-share-project ul li a:hover i{
+	color: #ffea00;
+}
+
+/* ===================================
+	OWL CAROUSEL 
+====================================== */
+.owl-theme .owl-controls .owl-page span {
+	background-color: #ffea00 !important;
+}
+
+/* ===================================
+	FOOTER
+====================================== */
+footer ul li a:hover i{
+	color: #ffea00;
+}
+.vad {
+	
+
+	background-image: url(https://culturalproject.org/images/26012b7cb793e7a002112a7cca605648.jpg);
+	opacity: 0.9;
+}
+.ved {
+	
+background-image: url(http://come-in.pro/wp-content/uploads/2017/01/Time-For-Art-1.jpg);
+opacity: 0.9;
+}
+.vid {
+	
+background-image: url(http://cdn1.share.slickpic.com/u/SashaLotus/Street-Art-Lisbon/org/01/web.jpg);
+opacity: 0.9;
+}
+.vod {
+	
+background-image: url(https://i1.poltava.to/projects/7/608/content/4.jpg);
+opacity: 0.9;
+}
+.vyd {
+	
+background-image: url(https://limeartgroup.com/wp-content/uploads/2015/08/Video-Loops-Red-color-vj-loops-abstract-2.jpg);
+opacity: 0.9;
+}
+.vud {
+	
+background-image: url(https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRjsDOeYs8EHO-5QcqB6RyT4Zw3pM22B8imfw6gPW168dNwzoXh);
+opacity: 0.9;
+}
+.vsd {
+	
+background-image: url(https://bugaga.ru/uploads/posts/2017-09/1506603936_bodiart-illyuzii-4.jpg);
+opacity: 0.9;
+}
+.vld {
+	
+background-image: url(http://metamodernizm.ru/wp-content/uploads/2016/01/bridgetsbardo_18a_21.jpg);
+opacity: 0.9;
+}
+.vzd {
+	
+background-image: url(https://ic.pics.livejournal.com/mikaprok/14194273/504689/504689_original.jpg);
+opacity: 0.9;
+}
